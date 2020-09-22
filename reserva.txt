@@ -1,0 +1,37 @@
+1 Cubitos-Parque ecológico- 90.45-30/12/2002-suroeste de la ciudad de Pachuca de Soto, Hidalgo.
+2 Bosque el Hiloche Parque Estatal 99.88 06/09/2004 carretera Huejutla de Reyes - Pachuca, Purísima, 42140 Mineral del Monte, Hgo.
+3 El Tecajete Parque Estatal 154.31 03/02/2009 Cerro San Rafael, al norte de Santa María Tecajete.
+4 La Gloria Zona de Preservación Ecológicas 59.58 05/06/2007 "Barrio El Tigre, Comunidad Tezoyo, Municipio de Apan, Hgo".
+5 Alcantarillas Zona de Preservación Ecológicas	911.39 05/06/2007 Apan.
+6 Cocinillas Zona de Preservación Ecológicas 77.8 05/06/2007 Apan.
+7 Cerro del Ángel Zona de Preservación Ecológicas 768.5 15/07/2011.
+8 Coatlaco Zona de Preservación Ecológicas 231.8 05/06/2007 Almoloya.
+9 La Paila-El Xihuingo Reserva Ecológica 2,723.07 03/02/2009.
+10 Rancho Nuevo	Zona de Preservación Ecológicas	627.61 05/06/2007 Almoloya.
+11 Nopala y La Estancia	Zona de Preservación Ecológicas	1,753.75 05/12/2005 Nopala de Villagran.
+12 San Mateo Tlajomulco	Zona de Preservación Ecológicas	484.36 05/06/2007.
+13 Tezoyo Zona de Preservación Ecológicas 493.4	05/06/2007 Apan.
+14 El Zoológico	Reserva Privada	9.46 22/02/2006	Tepeji del Río.
+15 Finca Tegolome Reserva Privada 8 20/09/2004 Tlanchinol.
+16 La Piedra.
+17 Arroyo Nogales Zona de Preservación Ecológicas 164.37 13/06/2008 Atotonilco el Grande.
+18 Ashtar Zona de Preservación Ecológicas 224.48 08/01/2009.
+19 Bondojito Zona de Preservación Ecológicas 67.97 07/06/2007 Huichapan.
+20 Chicamole Zona de Preservación Ecológicas 64.74 08/01/2009.
+21 Cruz de Plata Zona de Preservación Ecológicas 399.82	13/06/2008 Atotonilco el Grande.
+22 Dothí Zona de Preservación Ecológicas 20 07/06/2007 Huichapan.
+23 Pirámides de Ecuatitla Zona de Preservación Ecológicas 2.68 04/12/2008.
+24 El Sabino Zona de Preservación Ecológicas 8.4 15/07/2011.
+25 Rancho Huixcazdha Zona de Preservación Ecológicas 392 07/06/2007 Huichapan.
+26 Mamithí Zona de Preservación Ecológicas 10 07/06/2007 Huichapan.
+27 Rancho Golondrinas Zona de Preservación Ecológicas 284.7 16/09/2009.
+28 San Francisco Zona de Preservación Ecológicas.
+29 Santurio Zona de Preservación Ecológicas.
+30 Cascada de Cuatenahuatl Zona de Preservación Ecológicas 7.65 06/12/2004 Huautla.
+31 El Aguacatillo Zona de Preservación Ecológicas 44.87	13/12/2004 Chapulhuacan.
+32 El campanario Zona de Protección Municipio de Cuautepec de Hinojosa.
+33 La Laguna Zona de Preservación Ecológicas 115 07/06/2007 Huichapan.
+34 Mixquiapan Zona de Preservación Ecológicas 80.98 31/10/2003 Acatlán.
+35 La Lagunilla Zona de Preservación Ecológicas	28.38 12/04/2004 Municipio de Singuilucan.
+36 La Paila-El Susto Zona de Preservación Ecológicas 11.99 31/01/2005 Municipio de Singuilucan.
+37 La Paila-Matías Rodríguez Zona de Preservación Ecológicas 24.27 13/06/2005 Municipio de Singuilucan.
